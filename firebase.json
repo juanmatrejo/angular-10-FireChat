@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "FireChat",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
